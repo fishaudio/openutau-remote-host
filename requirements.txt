@@ -1,0 +1,3 @@
+flask 
+onnxruntime-gpu
+loguru
